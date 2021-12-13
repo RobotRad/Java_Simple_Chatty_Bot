@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Topics/Conditional statement/Check a number is positive/out/
+/Topics/Conditional statement/Check a number is positive/out/production/classes/
+/Topics/Conditional statement/Leap year/out/
+/Topics/Conditional statement/Leap year/out/production/classes/
+/Topics/Printing data/Theory/build/
+/Topics/String/Comparing strings ignoring whitespaces/out/
+/Topics/String/Comparing strings ignoring whitespaces/out/production/classes/
+/Topics/The for-loop/Numbers divisible by six/out/
+/Topics/The for-loop/Numbers divisible by six/out/production/classes/
